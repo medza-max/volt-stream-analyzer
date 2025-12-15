@@ -1,0 +1,4 @@
+requests==2.31.0
+aiohttp==3.9.1
+python-m3u8==3.5.0
+asyncio
